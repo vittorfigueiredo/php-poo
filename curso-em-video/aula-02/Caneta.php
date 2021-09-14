@@ -7,7 +7,6 @@ class Caneta {
   var $carga;
   var $tampada;
 
-
   function rabiscar() {
     if ($this->tampada == true) {
       echo json_encode([
