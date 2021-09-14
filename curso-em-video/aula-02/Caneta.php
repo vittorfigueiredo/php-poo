@@ -20,6 +20,7 @@ class Caneta {
       "success" => true,
       "message" => "Estou rabiscando!"
     ]);
+    die;
   }
 
   function tampar() {
